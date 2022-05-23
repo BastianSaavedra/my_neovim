@@ -1,0 +1,5 @@
+paquetes que debo instalar
+
+nodejs
+npm
+vim-plug
